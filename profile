@@ -1,1 +1,1 @@
-[G:\Reaper\Server Manager\super.png]
+{G:\Reaper\Server Manager\super.png}
